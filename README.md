@@ -1,54 +1,65 @@
 # Hipepper
 
+**Software developer focused on security tooling, reverse engineering, and malware analysis infrastructure.**
+
 ## About Me
 
-Software developer with a focus on building practical tools and solutions in security research, reverse engineering, and visualization platforms. Active on GitHub since 2018, with 38 public repositories demonstrating consistent development work across multiple languages.
+GitHub member since 2018 with a builder-oriented contribution profile. Primary focus is on developing and maintaining practical security tools, with heavy emphasis on commits (96.7% of activity) across public repositories.
 
-Primary contributions center on independent builder-style development, accounting for 96.7% of activity through direct commits. Recent public activity spans 8 days in the last 90 days across 8 repositories, utilizing TypeScript, HTML, Python, and C++.
-
-Top languages reflect a strong emphasis on data-oriented workflows (Jupyter Notebook) alongside web and systems programming (JavaScript, HTML, TypeScript, Java, C++, Python).
+Demonstrated expertise in Jupyter Notebook, JavaScript, HTML, TypeScript, Java, Python, and C++. Recent activity (last 90 days) shows consistent work in TypeScript, HTML, Python, and C++ across 8 public repositories. Strong track record of creating and maintaining projects that see meaningful community engagement, particularly in anti-analysis and visualization tooling.
 
 ## Tech Stack
 
-### Languages & Notebooks
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+</p>
 
-### Additional
-![Hack](https://img.shields.io/badge/Hack-8E44AD?style=for-the-badge&logoColor=white)
+### Tools & Notebooks
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+</p>
 
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://readme.u14.app/api/github/stats?userId=JnfipbKJ0GwwrYtktyVrQnjJ74rdW73J" alt="Hipepper GitHub Stats" width="48%" />
-<img src="https://readme.u14.app/api/github/top-langs?userId=JnfipbKJ0GwwrYtktyVrQnjJ74rdW73J" alt="Hipepper Top Languages" width="48%" />
-
+  <img src="https://readme.u14.app/api/github/stats?userId=JnfipbKJ0GwwrYtktyVrQnjJ74rdW73J" alt="Hipepper GitHub Stats" width="48%">
+  <img src="https://readme.u14.app/api/github/top-langs?userId=JnfipbKJ0GwwrYtktyVrQnjJ74rdW73J" alt="Hipepper Top Languages" width="48%">
 </div>
 
-## Featured Repositories
+## Featured Projects
 
-| Repository | Description | Stars |
-|------------|-------------|-------|
-| [anti_all_in_one](https://github.com/Hipepper/anti_all_in_one) | Collection of anti-debugging resources and adversarial techniques | ![Stars](https://img.shields.io/github/stars/Hipepper/anti_all_in_one?style=flat-square&color=58A6FF) |
-| [antiVM](https://github.com/Hipepper/antiVM) | IDA Pro plugin to identify anti-virtual machine and anti-sandbox behaviors for accelerated malware analysis | ![Stars](https://img.shields.io/github/stars/Hipepper/antiVM?style=flat-square&color=58A6FF) |
-| [Gh0st-vs2019-](https://github.com/Hipepper/Gh0st-vs2019-) | Gh0st source compilation support for Visual Studio 2019 environment | ![Stars](https://img.shields.io/github/stars/Hipepper/Gh0st-vs2019-?style=flat-square&color=58A6FF) |
-| [SecTech-Vis](https://github.com/Hipepper/SecTech-Vis) | Visualization platform for sharing security technologies and capabilities | ![Stars](https://img.shields.io/github/stars/Hipepper/SecTech-Vis?style=flat-square&color=58A6FF) |
-| [litiaotiao](https://github.com/Hipepper/litiaotiao) | Li Tiao Tiao APK sharing, including HarmonyOS version | ![Stars](https://img.shields.io/github/stars/Hipepper/litiaotiao?style=flat-square&color=58A6FF) |
+**anti_all_in_one**  
+[![Stars](https://img.shields.io/github/stars/Hipepper/anti_all_in_one?style=flat-square&color=58A6FF)](https://github.com/Hipepper/anti_all_in_one)  
+Collection of anti-debugging resources and evasion techniques.
+
+**antiVM**  
+[![Stars](https://img.shields.io/github/stars/Hipepper/antiVM?style=flat-square&color=58A6FF)](https://github.com/Hipepper/antiVM)  
+Python-based IDA Pro plugin designed to rapidly detect anti-virtual machine and anti-sandbox behaviors to accelerate malware analysis.
+
+**Gh0st-vs2019-**  
+[![Stars](https://img.shields.io/github/stars/Hipepper/Gh0st-vs2019-?style=flat-square&color=58A6FF)](https://github.com/Hipepper/Gh0st-vs2019-)  
+Gh0st RAT successfully compiled under Visual Studio 2019 environment.
+
+**SecTech-Vis**  
+[![Stars](https://img.shields.io/github/stars/Hipepper/SecTech-Vis?style=flat-square&color=58A6FF)](https://github.com/Hipepper/SecTech-Vis)  
+Visualization platform for sharing security technologies and capabilities.
+
+**litiaotiao**  
+[![Stars](https://img.shields.io/github/stars/Hipepper/litiaotiao?style=flat-square&color=58A6FF)](https://github.com/Hipepper/litiaotiao)  
+LiTiaoTiao APK distribution repository, including HarmonyOS version.
 
 ## Contribution Activity
 
 <div align="center">
-
-![Hipepper Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hipepper&theme=tokyonight)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hipepper&theme=tokyonight" alt="Hipepper Contribution Streak" />
 </div>
 
 ---
 
-*Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=Hipepper&color=58A6FF&style=flat-square)*
+*Last updated: April 2026*
